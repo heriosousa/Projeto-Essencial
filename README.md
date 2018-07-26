@@ -1,6 +1,6 @@
 # Gene Essentiality Prediction Using Topological Features From Metabolic Networks
 
-This is the code repository from the paper "Gene Essentiality Prediction Using Topological Features From Metabolic Networks" to be presented at 7th Brazilian Conference on Intelligent Systems (BRACIS) in São Paulo, Brazil.
+This is the code repository for the paper "Gene Essentiality Prediction Using Topological Features From Metabolic Networks" to be presented at 7th Brazilian Conference on Intelligent Systems (BRACIS) in São Paulo, Brazil.
 
 In this work, we evaluate the influence and the contribution of network topological features for the essencial gene prediction task in metabolic networks.
 
