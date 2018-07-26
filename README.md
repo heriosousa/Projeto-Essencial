@@ -13,10 +13,10 @@ Selected organisms:
 - *Pseudomonas aeruginosa*
 - *Saccharomyces cerevisiae*
 
-All metabolic networks were construted from the Kyoto Encyclopedia of Genes and Genomes (KEGG) metabolic pathway database, while essentiality information for each organism was collected from diferent sources:
-- Profiling of *Escherichia coli* Chromosome Database (PEC) for *E. coli* 
-- Database of Essential Genes (DEG) for *M. genitalium* and *P. aerguinosa*
-- Saccharomyces Genome Deletion Project for *S. cerevisiae*. 
+All metabolic networks were construted from the [Kyoto Encyclopedia of Genes and Genomes (KEGG)](https://www.genome.jp/kegg/) metabolic pathway database, while essentiality information for each organism was collected from diferent sources:
+- [Profiling of *Escherichia coli* Chromosome Database (PEC)](https://shigen.nig.ac.jp/ecoli/pec/) for *E. coli* 
+- [Database of Essential Genes (DEG)](http://www.essentialgene.org/) for *M. genitalium* and *P. aerguinosa*
+- [Saccharomyces Genome Deletion Project](http://www-sequence.stanford.edu/group/yeast_deletion_project/deletions3.html) for *S. cerevisiae*. 
 
 ## Scripts and steps
 
