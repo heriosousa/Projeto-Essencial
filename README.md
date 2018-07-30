@@ -59,7 +59,7 @@ Since this measure is closely related to social network analysis and information
 
 Two more metrics were implemented, the first one from graph theory:
 
-- Length of a random maximal independent (stable) set, an independent set that is not subset of any other independent set
+- Length of a random maximal independent (stable) set, an independent set that is not a subset of any other independent set
 
 And the last one designed specifically for gene essenciality prediction in metabolic networks:
 
