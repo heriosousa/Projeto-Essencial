@@ -24,8 +24,6 @@ DataVisualization.ipynb contains how data was collected for both networks' const
 
 PreProcessing.ipynb shows feature extraction is performed from the constructed graphs, using several topology features from different domains, to be later discussed.
 
-*InitialTest.ipynb comento melhor assim que decidirmos se vamos cortar ou não essa parte*
-
 MachineLearningApproach.ipynb displays both experiments scenarios: pairwise and leave-one-out, including its results (assessed by ROC curve) and runtime, as well as the selected classifiers.
 
 ## Selecting the feature set
@@ -61,7 +59,7 @@ Since this measure is closely related to social network analysis and information
 
 Two more metrics were implemented, the first one from graph theory:
 
-- Length of a random maximal independent (stable) set, an independent set that is not subset of other independent set
+- Length of a random maximal independent (stable) set, an independent set that is not subset of any other independent set
 
 And the last one designed specifically for gene essenciality prediction in metabolic networks:
 
