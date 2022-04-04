@@ -68,3 +68,7 @@ And the last one designed specifically for gene essenciality prediction in metab
 ## Citation
 
 J. S. Nagai, H. Sousa, A. H. Aono, A. C. Lorena and R. M. Kuroshu, "Gene essentiality prediction using topological features from metabolic networks", _2018 7th Brazilian Conference on Intelligent Systems (BRACIS)_, Oct. 2018.
+
+## Extended paper repository
+
+https://github.com/jsnagai/Gene-Essentiallity-Project-A-topological-approach
